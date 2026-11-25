@@ -1,0 +1,4 @@
+# Wi-Fi and other credentials. Copy secrets.example.h to secrets.h and fill it in locally.
+src/secrets.h
+.pio/
+.vscode/
